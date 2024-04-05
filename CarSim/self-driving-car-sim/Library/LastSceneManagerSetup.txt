@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CarSim/Scenes/SnakeTrackAuto.unity
+  isLoaded: 1
+  isActive: 1
